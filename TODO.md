@@ -1,0 +1,1 @@
+# JIL Air Systems Next.js App - Complete\n\n- [x] page.tsx customized with welcome content.\n- [x] Syntax fixed (full file recreated).\n\nRun: cd \"JIL Air systems/my-app\" && npm install && npm run dev\nView: http://localhost:3000
